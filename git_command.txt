@@ -1,0 +1,28 @@
+
+$ git init
+
+
+$ git status
+
+$ git add -A
+
+
+
+$ git status
+
+  
+
+$ git config --global user.name "hamza"
+
+
+$ git config --global user.email "hamzasiddiq75@yahoo.com"
+
+
+$ git commit -m "work complete"
+
+
+hamza@DESKTOP-IM9J2RA MINGW64 ~/Desktop/newfolder (master)
+$  git remote add origin https://github.com/hamza-10702/Assignment.git
+
+hamza@DESKTOP-IM9J2RA MINGW64 ~/Desktop/newfolder (master)
+$ git push -u origin master
