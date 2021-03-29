@@ -1,0 +1,222 @@
+*{
+    margin: 0;
+   
+    
+}
+body{
+    background-image: url(images/dark-wood.jpg);
+    background-size: 800px;
+}
+#yoko{
+    color: #ffffff;
+    position: absolute;
+    left: 200px;
+    top: 115px;
+    font-family: Georgia, Times, serif;
+    line-height: 1.4em;
+   
+}
+#yoko1{
+    color: #ffffff;
+    position: absolute;
+    left: 200px;
+    top: 145px;
+    font-family: Georgia, Times, serif;
+    line-height: 1.4em;
+}
+
+.container{
+   
+    height: 275px;
+    width: 80%;
+    margin: 0 auto;    
+    /* border: 1px solid rgb(0, 97, 114); */
+
+}
+.navlist{  
+   
+    position: absolute;
+    padding: 0;
+   
+ }  
+
+.navitem{
+    color: #ffffff;
+    margin-right: 68px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    font-size: 26px; 
+ } 
+.lists{
+    display: flex;
+    flex-wrap: nowrap;
+    padding-top: 15px;
+    background-color: #b6b2b2;  
+    position: relative;
+    top: 205px;
+     padding-left: 25px;
+    height: 45px;
+}
+.bar{
+    height: 279px;
+    position: relative;
+    background-image: url("./images/header_img.PNG");
+    background-position-y: 43px; /* Center the image */
+    background-position-x: 43px;
+    background-repeat: no-repeat;
+     background-size: 118px;
+    background-color:#9c9999;
+   
+} 
+
+/* ///////////////////////////////body div//////////// */
+
+
+.body{
+    background-color: #f9f8f6;
+    width: 80%;
+    margin: 0 auto;  
+    /* border: 1px solid rgb(41, 221, 56);  */
+    height: 716px;
+    position: relative;
+    top: 3px;
+
+} 
+.left{
+    width: 65%;
+    display: flex;
+    position: relative;
+    left: 10px;
+    top: 20px;
+    /* border: 1px solid black; */
+
+}
+span{
+    margin-left: 5px;
+}
+
+#img_1{
+    padding: 5px;
+    margin: 0px;
+    border: 1px solid #eeeeee;
+}
+
+.caption{
+    margin-left: 2px;
+    font-size: larger;
+    font-style: normal;
+}
+
+
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: #666666;
+}
+
+.span_2{
+   padding-top: 22px;
+}
+#span_2_h3{
+    font-weight: normal;
+    margin-bottom: 16px;
+    margin-top: -4px;
+    font-size: 25px;
+    color: #de6581;
+}
+
+#span_2_h2{
+    font-weight: normal;
+    font-size: 30px;  
+    color: #666666;  
+}
+
+.span_3{
+    margin-top: 20px;
+}
+
+.left_1{
+    margin-top: 46px;
+    width: 65%;
+    display: flex;
+    position: relative;
+    left: 10px;
+    top: 20px;
+    /* border: 1px solid black; */
+
+}
+
+.span_4{
+    padding-top: 42px;
+ }
+
+ #span_4_h3{
+    font-weight: normal;
+    margin-bottom: 16px;
+    margin-top: -4px;
+    font-size: 25px;
+    color: #de6581;
+}
+#span_4_h2{
+    font-weight: normal;
+    font-size: 30px;  
+    color: #666666;  
+}
+
+.right{
+    /* display: flex; */
+    position: relative;
+    top: -530px;
+   /* justify-content: flex-start; */
+    width: 30%;
+    float: right;
+    border-left: 1px solid #eeeeee;
+    height: 600px;
+}
+.right_h2{
+    font-size: 35px;
+    color: #de6581;
+    padding-top: 45px;
+    padding-left: 20px;
+    font-weight: normal;
+}
+
+.right_list{
+    display: block;
+    color: #de6581;
+   
+}
+
+.right_list_item{
+    margin-bottom: 25px;
+    display: block;
+    color: #de6581;
+    text-decoration: none;
+    line-height: 1.4em;
+    font-size: 25px;
+    border-bottom: 1px solid #eeeeee;
+}
+
+.contact{
+   list-style-type: none;
+   color: #666666;  
+   font-size: 20px;
+   }
+
+.contact_list{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.foot{
+   
+    position: relative;
+    clear: both;
+    color: #ffffff;
+    background-color: #aeaca8;
+    height: 46px;
+    top: -452px;
+}
+
+
